@@ -9,3 +9,6 @@ Scripts
 __pycache__
 pyvenv.cfg
 *.spec
+bin
+lib
+lib64
